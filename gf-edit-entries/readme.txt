@@ -1,5 +1,5 @@
 === Edit Entries for Gravity Forms ===
-Contributors: brightvesseldev, niloybrightvessel, kleinmannbrightvessel
+Contributors: brightvesseldev, kleinmannbrightvessel
 Tags: gravity, gravityforms, forms
 Requires at least: 4.0
 Tested up to: 6.4.1
