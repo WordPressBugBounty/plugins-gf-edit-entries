@@ -1,10 +1,10 @@
-=== Edit Entries for Gravity Forms ===
+=== Gravity Forms - Edit Entries ===
 Contributors: brightvesseldev, kleinmannbrightvessel
 Tags: gravity, gravityforms, forms
 Requires at least: 4.0
-Tested up to: 6.4.1
-Requires PHP: 7.2.0
-Stable tag: 0.1.6
+Tested up to: 7.1
+Stable tag: 1.1
+Donate link: https://www.brightvessel.com/
 
 == Description ==
 
@@ -47,3 +47,8 @@ This plugin works on the backend, so it will not affect your theme in most cases
 
 = Do you plan on adding to the plugin? =
 We do take feature requests [here](https://share.brightvessel.com/MAg).
+
+== Changelog ==
+
+= 1.1 – 11 Sept 2026 =
+* Support for WordPress 7.1
