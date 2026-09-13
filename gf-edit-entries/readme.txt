@@ -3,7 +3,7 @@ Contributors: brightvesseldev, kleinmannbrightvessel
 Tags: gravity, gravityforms, forms
 Requires at least: 4.0
 Tested up to: 7.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 Donate link: https://www.brightvessel.com/
 
 == Description ==
@@ -49,6 +49,9 @@ This plugin works on the backend, so it will not affect your theme in most cases
 We do take feature requests [here](https://share.brightvessel.com/MAg).
 
 == Changelog ==
+
+= 1.1.1 – 13 Sept 2026 =
+* Fixed: Removed test call to 'fw_print' function that was breaking the code.
 
 = 1.1 – 11 Sept 2026 =
 * Support for WordPress 7.1

@@ -1,0 +1,19 @@
+.gf-edit-field:focus {
+    outline: none;
+    color:#555 !important;
+}
+.gf-edit-field{
+    color:blue !important;
+}
+#bpgf-quick-edit{
+    width:630px;
+}
+form.bp-entry-details label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 7px;
+    display: block;
+}
+form.bp-entry-details .form-field {
+    margin-bottom: 15px;
+}
