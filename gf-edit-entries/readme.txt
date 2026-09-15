@@ -1,10 +1,15 @@
 === Gravity Forms - Edit Entries ===
 Contributors: brightvesseldev, kleinmannbrightvessel
-Tags: gravity, gravityforms, forms
-Requires at least: 4.0
+Tags: gravity, gravityforms, forms, edit entries
+Requires at least: 5.5.6
 Tested up to: 7.1
-Stable tag: 1.1.1
+Requires PHP: 7.4
+Stable tag: 1.2
 Donate link: https://www.brightvessel.com/
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+
+This plugin lets you edit the entries for the forms created with gravity
 
 == Description ==
 
@@ -49,6 +54,9 @@ This plugin works on the backend, so it will not affect your theme in most cases
 We do take feature requests [here](https://share.brightvessel.com/MAg).
 
 == Changelog ==
+
+= 1.2 – 14 Sept 2026 =
+* Fix - Removed obsolete short PHP tag syntax that broke execution on PHP 7+.
 
 = 1.1.1 – 13 Sept 2026 =
 * Fixed: Removed test call to 'fw_print' function that was breaking the code.
